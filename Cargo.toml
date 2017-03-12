@@ -7,3 +7,4 @@ keywords = ["final", "immutable"]
 categories = ["data-structures"]
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/jswrenn/final"
