@@ -1,6 +1,6 @@
 [package]
 name = "final"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jack Wrenn <me@jswrenn.com>"]
 description = "Wrap a value in a type that does not give out mutable references."
 keywords = ["final", "immutable"]
